@@ -1,2 +1,3 @@
 # MCU_Schematic
-Schematic Designs for the STM Nucleo board using STM32F103C6 mcu and the custom board using STM32F103RBT6 mcu. 
+- The STM Nucleo board using STM32F103C6 mcu 
+- Meanwhile, STM32F103RBT6 mcu is the controller for the custom board. 
